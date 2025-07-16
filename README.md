@@ -20,11 +20,9 @@ scROAD
 
 **scROAD** stands for:
 
-1. **single-cell Regulatory Occupancy Analysis of Dynamics**:  
-   This highlights the analytical framework and methodology used for studying transcription factor occupancy and regulatory changes in single-cell data.
-
-2. **Single-cell Regulatory Occupancy Archive in Dementia**:  
-   This emphasizes the curated database or archive for dementia-related research, housing single-cell regulatory data for further exploration.
+**Single-cell Regulatory Occupancy Archive in Dementia**:  
+   1. This emphasizes the curated database or archive for dementia-related research, housing single-cell regulatory data for further exploration.
+   2. We also provided detailed step-by-step example code for running transcription factor occupancy on single-cell data. 
 
 These dual meanings reflect the comprehensive scope of scROAD, addressing both the analytical methods and the accessible resource for the scientific community.
 
